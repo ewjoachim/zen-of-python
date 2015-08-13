@@ -1,5 +1,7 @@
 # Zen of Python typographic poster
 
+![The poster you need now !](/zen_web.png)
+
 ## If you're interested in a printed version, you can:
 
  - Buy one on [DeviantArt](http://ewjoachim.deviantart.com/art/Zen-of-Python-Poster-397139195). I get around 15% of the price and so far, I've been sending this money (which for 2 years of this poster beeing sold was $10 !) to the [Python Software Foundation](https://www.python.org/psf/)
