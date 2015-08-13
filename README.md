@@ -15,7 +15,7 @@
 
 ## I'm using all this stuff without explicit permission
 
- But if that's infringing on anything, please feel free to contact me in any way (if possible, not by a cease-and-desist letter from you lawyer)
+ But if that's infringing on anything, please feel free to [contact me](https://twitter.com/Ewjoachim) in any way (if possible, not by a cease-and-desist letter from you lawyer)
 
 ## The poster is distributed as different formats:
 
