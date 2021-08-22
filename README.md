@@ -14,7 +14,7 @@
 
  - [The Zen of Python by Tim Peters](https://www.python.org/dev/peps/pep-0020/), included in every good distribution of Python if you type ``import this``
  - It mainly uses the [Menlo font](https://en.wikipedia.org/wiki/Menlo_(typeface)) which is used by [Sublime Text](http://www.sublimetext.com/) on OSX
- - It uses the [Monokai](http://www.monokai.nl/blog/2006/07/15/textmate-color-theme/) and [Monokai Light](https://github.com/anoff/hyper-monokai-light/blob/9b0bd528805e5561395bab4e0c7935d3e8756b5b/index.js) color schemes
+ - It uses the [Monokai Classic](https://github.com/rjfranco/monokai-light/blob/a96af9ead72f3761198bfb82fc56a7f52e7930c0/Monokai.tmTheme) and [Monokai Light](https://github.com/anoff/hyper-monokai-light/blob/9b0bd528805e5561395bab4e0c7935d3e8756b5b/index.js) color schemes
  - There are also traces of other fonts which I'm sure you can recognize (and probably nuts)
 
 ## I'm using all this stuff without explicit permission
