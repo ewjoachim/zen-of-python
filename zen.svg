@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1190.6 841.9" style="enable-background:new 0 0 1190.6 841.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3D3D3D;}
+	.st1{clip-path:url(#SVGID_2_);fill:none;stroke:#000000;}
+	.st2{fill:none;stroke:#A6E22E;stroke-width:1.055;stroke-miterlimit:10;}
+	.st3{clip-path:url(#SVGID_4_);fill:none;stroke:#F92672;stroke-width:1.59;stroke-miterlimit:10;}
+	.st4{fill:#F92672;}
+	.st5{font-family:'Menlo-Regular';}
+	.st6{font-size:24px;}
+	.st7{fill:#F8F8F2;}
+	.st8{fill:#E6DB74;}
+	.st9{fill:#A6E22E;}
+	.st10{font-family:'ComicSansMS';}
+	.st11{font-family:'MyriadPro-Regular';}
+	.st12{letter-spacing:7;}
+	.st13{letter-spacing:-4;}
+	.st14{fill:#66D9EF;}
+	.st15{fill:#AE81FF;}
+	.st16{font-family:'Menlo-Italic';}
+	.st17{fill:#75715E;}
+	.st18{letter-spacing:-2;}
+	.st19{font-family:'Menlo-Bold';}
+</style>
+<rect x="0.5" y="0.5" class="st0" width="1189.6" height="840.9"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="1190.6" height="841.9"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<rect x="0.5" y="0.5" class="st1" width="1189.6" height="840.9"/>
+</g>
+<line class="st2" x1="122.4" y1="297" x2="180.2" y2="297"/>
+<g>
+	<defs>
+		<rect id="SVGID_3_" width="1190.6" height="841.9"/>
+	</defs>
+	<clipPath id="SVGID_4_">
+		<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st3" d="M411.4,299.5c3.6-2.9,10.8-2.9,14.4,0c3.6,2.9,10.8,2.9,14.4,0c3.6-2.9,10.8-2.9,14.5,0
+		c3.6,2.9,10.8,2.9,14.4,0c3.6-2.9,10.8-2.9,14.4,0c3.6,2.9,10.8,2.9,14.4,0"/>
+</g>
+<text transform="matrix(1 0 0 1 122.3896 93.8529)" class="st4 st5 st6">import</text>
+<text transform="matrix(1 0 0 1 209.0786 93.8529)" class="st7 st5 st6"> this</text>
+<text transform="matrix(1 0 0 1 122.3896 122.6527)" class="st8 st5 st6">“““The Zen of Python, by Tim Peters. (poster by Joachim Jablon)”””</text>
+<text transform="matrix(1 0 0 1 122.3896 180.2528)" class="st9 st5 st6">Beautiful</text>
+<text transform="matrix(1 0 0 1 252.4229 180.2528)" class="st7 st5 st6"> is better than </text>
+<text transform="matrix(1 0 0 1 483.6138 180.2528)" class="st4 st10 st6">ugly</text>
+<text transform="matrix(1 0 0 1 527.8936 180.2528)" class="st7 st5 st6">.</text>
+<text transform="matrix(1 0 0 1 122.3896 209.0526)" class="st9 st5 st6">Explicit</text>
+<text transform="matrix(1 0 0 1 237.9746 209.0526)" class="st7 st5 st6"> is better than </text>
+<text transform="matrix(1 0 0 1 469.166 209.0526)" class="st4 st5 st6">impl.</text>
+<text transform="matrix(1 0 0 1 541.4063 209.0526)" class="st7 st5 st6">.</text>
+<text transform="matrix(1 0 0 1 122.3896 237.8529)" class="st9 st5 st6">Simple</text>
+<text transform="matrix(1 0 0 1 209.0786 237.8529)" class="st7 st5 st6"> is better than </text>
+<text transform="matrix(1 0 0 1 440.27 237.8529)"><tspan x="0" y="0" class="st4 st5 st6">cσмρ</tspan><tspan x="57.8" y="0" class="st4 st11 st6">ℓ</tspan><tspan x="69.9" y="0" class="st4 st5 st6">ɛϰ</tspan></text>
+<text transform="matrix(1 0 0 1 541.4067 237.8529)" class="st7 st5 st6">.</text>
+<text transform="matrix(1 0 0 1 122.3896 266.6527)"><tspan x="0" y="0" class="st9 st5 st6">Cσмρ</tspan><tspan x="57.8" y="0" class="st9 st11 st6">ℓ</tspan><tspan x="69.9" y="0" class="st9 st5 st6">ɛϰ</tspan></text>
+<text transform="matrix(1 0 0 1 223.5269 266.6527)" class="st7 st5 st6"> is better than </text>
+<text transform="matrix(1 0 0 1 454.7178 266.6527)" class="st4 st5 st6">cOmp1|c@ted</text>
+<text transform="matrix(1 0 0 1 613.6699 266.6527)" class="st7 st5 st6">.</text>
+<text transform="matrix(1 0 0 1 122.3896 295.4525)" class="st9 st5 st6">Flat</text>
+<text transform="matrix(1 0 0 1 180.1821 295.4525)" class="st7 st5 st6"> is better than </text>
+<text transform="matrix(1 0 0 1 411.374 295.4525)" class="st4 st5 st6">nested</text>
+<text transform="matrix(1 0 0 1 498.0625 295.4525)" class="st7 st5 st6">.</text>
+<text transform="matrix(1 0 0 1 122.3896 324.2528)"><tspan x="0" y="0" class="st9 st5 st6 st12">Spars</tspan><tspan x="108.1" y="0" class="st9 st5 st6">e</tspan></text>
+<text transform="matrix(1 0 0 1 252.2783 324.2528)" class="st7 st5 st6"> is better than </text>
+<text transform="matrix(1 0 0 1 483.4482 324.2528)"><tspan x="0" y="0" class="st4 st5 st6 st13">dens</tspan><tspan x="38.6" y="0" class="st4 st5 st6">e</tspan></text>
+<text transform="matrix(1 0 0 1 531.689 324.2528)" class="st7 st5 st6">.</text>
+<text transform="matrix(1 0 0 1 122.3896 353.0526)" class="st7 st5 st6">Readability </text>
+<text transform="matrix(1 0 0 1 295.79 353.0526)" class="st14 st5 st6">counts</text>
+<text transform="matrix(1 0 0 1 382.4785 353.0526)" class="st7 st5 st6">.</text>
+<text transform="matrix(1 0 0 1 122.3896 381.8529)" class="st14 st5 st6">Special</text>
+<text transform="matrix(1 0 0 1 223.5269 381.8529)" class="st7 st5 st6"> cases aren’t </text>
+<text transform="matrix(1 0 0 1 425.8218 381.8529)" class="st14 st5 st6">special</text>
+<text transform="matrix(1 0 0 1 526.9585 381.8529)" class="st7 st5 st6"> enough to </text>
+<text transform="matrix(1 0 0 1 685.9102 381.8529)" class="st15 st5 st6">break</text>
+<text transform="matrix(1 0 0 1 758.1504 381.8529)" class="st7 st5 st6"> the rules.</text>
+<text transform="matrix(1 0 0 1 122.3896 410.6527)" class="st7 st5 st6">Although </text>
+<text transform="matrix(1 0 0 1 252.4229 410.6527)" class="st9 st5 st6">practicality</text>
+<text transform="matrix(1 0 0 1 425.8218 410.6527)" class="st7 st5 st6"> beats </text>
+<text transform="matrix(1 0 0 1 526.9585 410.6527)" class="st4 st5 st6">purity</text>
+<text transform="matrix(1 0 0 1 613.6475 410.6527)" class="st7 st5 st6">.</text>
+<text transform="matrix(1 0 0 1 122.3896 439.4525)" class="st14 st5 st6">raise</text>
+<text transform="matrix(1 0 0 1 194.6304 439.4525)" class="st7 st5 st6"> </text>
+<text transform="matrix(1 0 0 1 209.0786 439.4525)" class="st14 st16 st6">PythonicError</text>
+<text transform="matrix(1 0 0 1 396.9258 439.4525)" class="st7 st5 st6">(</text>
+<text transform="matrix(1 0 0 1 411.374 439.4525)" class="st8 st5 st6">“Errors should never pass silently.”</text>
+<text transform="matrix(1 0 0 1 931.5498 439.4525)" class="st7 st5 st6">)</text>
+<text transform="matrix(1 0 0 1 122.3896 468.2523)" class="st17 st5 st6"># Unless explicitly silenced.</text>
+<text transform="matrix(1 0 0 1 122.3896 497.0531)" class="st7 st5 st6">In the face of </text>
+<text transform="matrix(1 0 0 1 339.1338 497.0531)" class="st14 st5 st6">ambiguity</text>
+<text transform="matrix(1 0 0 1 469.167 497.0531)" class="st7 st5 st6">, </text>
+<text transform="matrix(1 0 0 1 498.063 497.0531)" class="st4 st5 st6">refuse</text>
+<text transform="matrix(1 0 0 1 584.752 497.0531)" class="st7 st5 st6"> the temptation to guess.</text>
+<text transform="matrix(1 0 0 1 122.3896 525.8529)" class="st7 st5 st6">There should be </text>
+<text transform="matrix(1 0 0 1 353.582 525.8529)" class="st9 st5 st6">one</text>
+<text transform="matrix(1 0 0 1 396.9263 525.8529)" class="st7 st5 st6">-- and preferably only </text>
+<text transform="matrix(1 0 0 1 729.2539 525.8529)" class="st9 st5 st6">one</text>
+<text transform="matrix(1 0 0 1 772.5977 525.8529)" class="st7 st5 st6"> --obvious way to do it.</text>
+<text transform="matrix(1 0 0 1 122.3896 554.6527)"><tspan x="0" y="0" class="st17 st5 st6"># Although that way may not be obvious at </tspan><tspan x="606.9" y="0" class="st17 st5 st6 st18">first</tspan><tspan x="667.1" y="0" class="st17 st5 st6"> unless you’re</tspan></text>
+<text transform="matrix(1 0 0 1 1003.79 554.6527)" class="st4 st5 st6">Du</text>
+<text transform="matrix(1 0 0 1 1032.6855 554.6527)" class="st7 st5 st6">t</text>
+<text transform="matrix(1 0 0 1 1047.1338 554.6527)" class="st14 st5 st6">ch</text>
+<text transform="matrix(1 0 0 1 1076.0303 554.6527)" class="st17 st5 st6">.</text>
+<text transform="matrix(1 0 0 1 122.3896 583.4525)" class="st9 st5 st6">Now</text>
+<text transform="matrix(1 0 0 1 165.7344 583.4525)" class="st7 st5 st6"> is better than ...                  </text>
+<text transform="matrix(1 0 0 1 700.3574 583.4525)" class="st4 st5 st6">never</text>
+<text transform="matrix(1 0 0 1 772.5986 583.4525)" class="st7 st5 st6">.</text>
+<text transform="matrix(1 0 0 1 122.3896 612.2523)" class="st7 st5 st6">Although </text>
+<text transform="matrix(1 0 0 1 252.4229 612.2523)" class="st9 st5 st6">never</text>
+<text transform="matrix(1 0 0 1 324.6636 612.2523)" class="st7 st5 st6"> is </text>
+<text transform="matrix(1 0 0 1 382.4561 612.2523)" class="st14 st5 st6">often</text>
+<text transform="matrix(1 0 0 1 454.6963 612.2523)" class="st7 st5 st6"> better than</text>
+<text transform="matrix(1 0 0 1 628.1182 612.2523)" class="st4 st19 st6">right</text>
+<text transform="matrix(1 0 0 1 700.3584 612.2523)" class="st4 st5 st6">now</text>
+<text transform="matrix(1 0 0 1 743.7031 612.2523)" class="st7 st5 st6">.</text>
+<text transform="matrix(1 0 0 1 122.3896 641.0531)" class="st7 st5 st6">If the implementation is </text>
+<text transform="matrix(1 0 0 1 483.6138 641.0531)" class="st4 st5 st6">hard</text>
+<text transform="matrix(1 0 0 1 541.4063 641.0531)" class="st7 st5 st6"> to explain, it’s a </text>
+<text transform="matrix(1 0 0 1 830.3896 641.0531)" class="st4 st5 st6">bad</text>
+<text transform="matrix(1 0 0 1 873.7344 641.0531)" class="st7 st5 st6"> idea.</text>
+<text transform="matrix(1 0 0 1 122.3896 669.8529)" class="st7 st5 st6">If the implementation is </text>
+<text transform="matrix(1 0 0 1 483.6138 669.8529)" class="st9 st5 st6">easy</text>
+<text transform="matrix(1 0 0 1 541.4063 669.8529)" class="st7 st5 st6"> to explain, it </text>
+<text transform="matrix(1 0 0 1 772.5977 669.8529)" class="st14 st5 st6">may</text>
+<text transform="matrix(1 0 0 1 815.9424 669.8529)" class="st7 st5 st6"> be a </text>
+<text transform="matrix(1 0 0 1 902.6309 669.8529)" class="st9 st5 st6">good</text>
+<text transform="matrix(1 0 0 1 960.4238 669.8529)" class="st7 st5 st6"> idea.</text>
+<text transform="matrix(1 0 0 1 122.3896 698.6527)" class="st14 st5 st6">Namespaces</text>
+<text transform="matrix(1 0 0 1 266.8711 698.6527)" class="st7 st5 st6"> are one honking </text>
+<text transform="matrix(1 0 0 1 512.5098 698.6527)" class="st9 st5 st6">great idea</text>
+<text transform="matrix(1 0 0 1 656.9912 698.6527)" class="st7 st5 st6"> -- let’s do </text>
+<text transform="matrix(1 0 0 1 844.8379 698.6527)" class="st15 st5 st6">more</text>
+<text transform="matrix(1 0 0 1 902.6299 698.6527)" class="st7 st5 st6"> of those!</text>
+<text transform="matrix(1 0 0 1 86.7979 180.2528)" class="st7 st5 st6">1</text>
+<text transform="matrix(1 0 0 1 86.7979 209.0526)" class="st7 st5 st6">2</text>
+<text transform="matrix(1 0 0 1 86.7979 237.8524)" class="st7 st5 st6">3</text>
+<text transform="matrix(1 0 0 1 86.7979 266.6527)" class="st7 st5 st6">4</text>
+<text transform="matrix(1 0 0 1 86.7979 295.4525)" class="st7 st5 st6">5</text>
+<text transform="matrix(1 0 0 1 86.7979 324.2523)" class="st7 st5 st6">6</text>
+<text transform="matrix(1 0 0 1 86.7979 353.0526)" class="st7 st5 st6">7</text>
+<text transform="matrix(1 0 0 1 86.7979 381.8524)" class="st7 st5 st6">8</text>
+<text transform="matrix(1 0 0 1 86.7979 410.6527)" class="st7 st5 st6">9</text>
+<text transform="matrix(1 0 0 1 72.3496 439.4525)" class="st7 st5 st6">10</text>
+<text transform="matrix(1 0 0 1 72.3496 468.2523)" class="st7 st5 st6">11</text>
+<text transform="matrix(1 0 0 1 72.3496 497.0521)" class="st7 st5 st6">12</text>
+<text transform="matrix(1 0 0 1 72.3496 525.8529)" class="st7 st5 st6">13</text>
+<text transform="matrix(1 0 0 1 72.3496 554.6527)" class="st7 st5 st6">14</text>
+<text transform="matrix(1 0 0 1 72.3496 583.4525)" class="st7 st5 st6">15</text>
+<text transform="matrix(1 0 0 1 72.3496 612.2523)" class="st7 st5 st6">16</text>
+<text transform="matrix(1 0 0 1 72.3496 641.0521)" class="st7 st5 st6">17</text>
+<text transform="matrix(1 0 0 1 72.3496 669.8529)" class="st7 st5 st6">18</text>
+<text transform="matrix(1 0 0 1 72.3496 698.6527)" class="st7 st5 st6">19</text>
+</svg>
