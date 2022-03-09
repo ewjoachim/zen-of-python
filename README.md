@@ -4,6 +4,30 @@
 
 <kbd><a href="/light/zen-light.png"><img alt="The poster you need now! (light)" src="/light/zen-light-web.png" /></a></kbd>
 
+Here is a transcript of the Zen of Python itself, as you would have by running `python -m this` or `import this` within a Python shell:
+
+```txt
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+```
+
 ## If you're interested in a printed version, you can:
 
  - Buy one on [DeviantArt](http://ewjoachim.deviantart.com/art/Zen-of-Python-Poster-397139195). I get around 15% of the price and so far, I've been sending this money (which for 2 years of this poster beeing sold was $10 !) to the [Python Software Foundation](https://www.python.org/psf/)
