@@ -4,7 +4,7 @@
 
 <kbd><a href="/light/zen-light.png"><img alt="The poster you need now! (light)" src="/light/zen-light-web.png" /></a></kbd>
 
-(the text - for easy copy/paste)
+Here is a transcript of the Zen of Python itself, as you would have by running `python -m this` or `import this` within a Python shell:
 
 ```txt
 Beautiful is better than ugly.
