@@ -30,9 +30,9 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ## If you're interested in a printed version, you can:
 
- - Buy one on [DeviantArt](http://ewjoachim.deviantart.com/art/Zen-of-Python-Poster-397139195). I get around 15% of the price and so far, I've been sending this money (which for 2 years of this poster beeing sold was $10 !) to the [Python Software Foundation](https://www.python.org/psf/)
  - Have it printed by a professionnal nearby on glossy paper for $20 to $80 depending on the size (of the poster) and the greediness (of your nearby print company). (I got mine for ~$40 but the quality is really neat)
  - Display it on a giant TV or using a projector, but that's not cool for both penguins and your elecricity bill.
+ - (I used to sell this and give profits to the Python Software Fundation. I've stopped because whoever solds prints all over the planet is less deserving of your money than your local print folks)
 
 ## This poster of the Zen of Python uses material borrowed from different source:
 
@@ -43,7 +43,7 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ## I'm using all this stuff without explicit permission
 
- But if that's infringing on anything, please feel free to [contact me](https://twitter.com/Ewjoachim) in any way (if possible, not by a cease-and-desist letter from your lawyer)
+ But if that's infringing on anything, please feel free to contact me at my first name @ my last name dot French TLD or in any way you see fit (if possible, not by a cease-and-desist letter from your lawyer)
 
 ## The poster is distributed as different formats:
 
@@ -60,4 +60,4 @@ Namespaces are one honking great idea -- let's do more of those!
 
 ## License
 
-Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) (Which means, feel free to use this poster but try to mention me (easy, my name is on it!) and if you do your own version, bump me on [Twitter](https://twitter.com/Ewjoachim))
+Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) (Which means, feel free to use this poster but try to mention me (easy, my name is on it!) and if you do your own version, feel free to let me know :) )
